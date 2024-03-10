@@ -1,0 +1,227 @@
+.showcase{
+background-color:rgb(0, 0, 0);
+}
+body{
+    font-family: 'PT Sans' , sans-serif;
+    background-color: #252529;
+    margin: 0px;
+    color: #fff;
+    line-height: 1.6;
+}
+.ggl{
+    height:50px;
+    width: 200px;
+}
+hr{
+    width: 10%;
+    border-style: dotted;
+    border-top-style: none;
+    border-width: 10px;
+    color: rgb(137, 126, 126);
+}
+a{
+    text-decoration: none;
+    color: #CCC;
+}
+.ms{
+    color: #000000;   
+}
+.hide-on-small{
+    color: #000000;  
+}
+#showcase{
+    padding: 0;
+    background:url('design.jpg') no-repeat center/cover ;
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+}
+.container{
+    margin-top: 25vh;
+}
+.lead{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    font-size: 1.3rem;
+}
+
+.container3{
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+
+.ms{
+    margin-bottom: 537px;
+}
+.mysel{
+    margin-bottom: -10px;
+}
+.section-main{
+    margin-top: 45px;
+}
+
+
+
+.h1m{
+    color: rgb(73, 196, 196);
+}
+.text-light{
+    text-align:center ;
+    width:50%;
+    margin-left:auto;
+    margin-right: auto;
+    font-size: 1.3rem;
+}
+h1{
+    font-size:4rem;
+    color: #000000;
+   
+}
+.mahi{
+    color:rgb(51, 15, 228);
+}
+.myf{
+    color:rgb(73, 196, 196);
+}
+.myfu{
+    color:rgb(73, 196, 196);
+}
+.hr1{
+    margin-top: 120px;
+}
+.hr2{
+    margin-top: 95px;
+}
+h2{
+    font-size:2rem;
+}
+nav{
+    height: 40px;
+    width: 100%;
+    background-color: #333;
+    color: rgb(51, 34, 34);
+    position: fixed;
+}
+.cf{
+    margin: 0;
+    padding: 0;
+}
+.linked{
+    display: inline;
+    float: left;
+}
+.anchor{
+    display: inline-block;
+    width: 100px;
+    text-align: center;
+    text-decoration: none;
+    padding-top: 10px;
+    color:#eee;
+}
+.hide-on-small{
+    color: rgb(65, 9, 9);
+    font-size:30px;
+    width: 30%;
+    text-align:center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 170px;
+}
+.linked:hover{
+    background-color: rgb(147, 22, 22);
+}
+.container{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.xn{
+    font-size: 1.3rem;
+    width:50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+footer .footer-cols{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    padding: 2rem;
+    text-align: left;
+    font-size: 14px;
+}
+footer .footer-cols ul{
+    list-style: none;
+}
+footer .footer-cols ul li:first-child{
+    font-size: 1.2rem;
+    padding-bottom: 0.5rem;
+    border-bottom: #444 solid 2px;
+    margin-bottom: 1rem;
+}
+.footer-bottom{
+    background-color: #333;
+    padding: 1rem;
+    text-align: center;
+}
+
+
+.google{
+    font-size: 20px;
+    margin-top: 0;
+}
+.btn {
+    background: #d11b1b;
+    background-image: -webkit-linear-gradient(top, #d11b1b, #cc1e1e);
+    background-image: -moz-linear-gradient(top, #d11b1b, #cc1e1e);
+    background-image: -ms-linear-gradient(top, #d11b1b, #cc1e1e);
+    background-image: -o-linear-gradient(top, #d11b1b, #cc1e1e);
+    background-image: linear-gradient(to bottom, #d11b1b, #cc1e1e);
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0px;
+    font-family: Georgia;
+    color: #fff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #200bde;
+    background-image: -webkit-linear-gradient(top, #200bde, #3498db);
+    background-image: -moz-linear-gradient(top, #200bde, #3498db);
+    background-image: -ms-linear-gradient(top, #200bde, #3498db);
+    background-image: -o-linear-gradient(top, #200bde, #3498db);
+    background-image: linear-gradient(to bottom, #200bde, #3498db);
+    text-decoration: none;
+  }
+  
+
+
+
+  .btn2 {
+    -webkit-border-radius: 7;
+    -moz-border-radius: 7;
+    border-radius: 7px;
+    font-family: Arial;
+    color: #000000;
+    font-size: 10px;
+    background: #ffffff;
+    padding: 10px 40px 26px 35px;
+    text-decoration: none;
+  }
+  
+  #Store{
+    padding: 2rem 0;
+  }
+  #aboutus{
+    padding: 2rem 0;
+  }
+  
+  .btn2:hover {
+    background: #c6d8e3;
+    text-decoration: none;
+  }
